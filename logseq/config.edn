@@ -1,5 +1,4 @@
-
-  {:journal-basis "daily" 
+{:journal-basis "daily" 
 
  :project {
            ;; Selected public notes can be published to https://logseq.com/your-project-or-your-username.
@@ -70,7 +69,7 @@
  ;; E.g. [["js" "Javascript"]]
  :commands
  []
-
+ :date-formatter "yyyy-MM-dd"
  ;; Macros replace texts and will make you more productive.
  ;; For example:
  ;; Add this to the macros below:
